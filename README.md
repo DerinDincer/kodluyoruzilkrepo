@@ -28,4 +28,4 @@ Bu ilk repo projem için herhangi bir katkısı olanlar; pull requestinde buluna
 
 ## License
 
-[MIT] (https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
+[MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
