@@ -1,8 +1,6 @@
 # Kodluyoruz İlk Repo
 Kodluyoruz GIT eğitimi kapsamında açtığım ilk repo içerisinde bir adet README dosyası, bir adet index.html dosyası ve bir adet LICENSE dosyası bulundurmaktadır.
 
-Batuhan bir oç
-
 ## Installation
 
 Projeyi indirmek için kullanılabilecek olan link aşağıda yer almaktadır.
@@ -36,4 +34,4 @@ Bu ilk repo projem için herhangi bir katkısı olanlar; pull requestinde buluna
 
 İlk repo projem github sayfasında aşağıdaki gibi görünmektedir. 
 
-![Image]()
+![Image](C:\Users\derin\Desktop\Untitled)
