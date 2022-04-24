@@ -1,5 +1,5 @@
-# Kodluyoruz Ilk Repo
-Kodluyoruz GIT eğitimi kapsamında açtığım ilk repo içerisinde bir adet README dosyası ve bir adet LICENSE dosyası bulundurmaktadır.
+# Kodluyoruz İlk Repo
+Kodluyoruz GIT eğitimi kapsamında açtığım ilk repo içerisinde bir adet README dosyası, bir adet index.html dosyası ve bir adet LICENSE dosyası bulundurmaktadır.
 
 ## Installation
 
