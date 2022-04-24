@@ -30,8 +30,8 @@ Bu ilk repo projem için herhangi bir katkısı olanlar; pull requestinde buluna
 
 [MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
 
-## Project 
+## Kodluyoruz  
 
-İlk repo projem github sayfasında aşağıdaki gibi görünmektedir. 
+İlk repo projemi Kodluyoruz eğitimim dahilinde gerçekleştirdim.
 
-![Image](C:\Users\derin\Desktop\Untitled)
+![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
