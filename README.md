@@ -1,7 +1,7 @@
 # Kodluyoruz Ilk Repo
 Kodluyoruz GIT eğitimi kapsamında açtığım ilk repo içerisinde bir adet README dosyası ve bir adet LICENSE dosyası bulundurmaktadır.
 
-## Istallation
+## Installation
 
 Projeyi indirmek için kullanılabilecek olan link aşağıda yer almaktadır.
 
